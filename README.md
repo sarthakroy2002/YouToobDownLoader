@@ -1,16 +1,19 @@
 # YouToobDownLoader
 
-## YouToobDownLoader : It's a simple YouTube Downloader using Python3 .
-### How to use it ?
-First you need to install Pytube with command :
+## YouToobDownLoader is a simple YouTube Downloader by Sarthak Roy. Made possible because of Python3 and Github(Obvious)
+### Guide to use it
+
+#### Prerequisite
+Install Pytube with command :
 ```
 $ pip install pytube
 ```
-##### Not
+###### Not
 ```
 $ sudo pip install pytube
 ```
 
+#### To Use it
 Then Clone the repo & run YouToobDownLoader.py Script in terminal:
 ```
 $ git clone https://github.com/sarthakroy2002/YouToobDownLoader.git
