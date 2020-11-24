@@ -4,6 +4,9 @@
 ### Guide to use it
 
 #### Prerequisite
+
+###### First install Python 3.x(3.6+ recommended)
+
 Install Pytube with command :
 ```
 $ pip install pytube
